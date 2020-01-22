@@ -1,0 +1,19 @@
+---
+title: "hw1"
+author: "Name: Brett Santema Github: bsantema"
+date: "1/21/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## A job related to Data Science
+One example of a job that is related to Data Science is a [business analyst](https://en.wikipedia.org/wiki/Business_analyst). A *business analyst* uses **Data Science** to evaluate a business model to determine if it is as efficient as it can be. Business analysts support the development of many flowcharts and diagrams, which include data models. Business analysts work in many differet industries, including insurance, banking, telecommunications, government, and many more.
+![](https://www.learntek.org/blog/wp-content/uploads/2018/03/BUSINESS.png)
+
+## R Version
+```{r}
+version
+```
