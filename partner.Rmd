@@ -1,0 +1,24 @@
+---
+title: "lab1"
+author: "Name: Ann Gould Github: gould-ann"
+date: "1/29/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Partner Info:
+
+Name: Ann Gould
+
+Github: gould-ann
+
+Latest commit: c167bfab932a0e81c3e7f1e598f51f5cd2533614
+
+What is it?: Adding the html file to the repository
+
+I was able to knit hw1 :)
+
+github issues: having to add a collaborator / going through emails to accept invite is annoying. github should scrap that.
